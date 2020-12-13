@@ -1,0 +1,15 @@
+{
+    "name": "Dubas Address Field for EspoCRM",
+    "description": "Address field with a drop-down country list.",
+    "author": "DUBAS - contact@dubas.pro",
+    "php": [
+        ">=7.2"
+    ],
+    "acceptableVersions": [
+        ">=6.0.0"
+    ],
+    "version": "0.0.1",
+    "skipBackup": true,
+    "checkVersionUrl": "https://devcrm.it",
+    "releaseDate": "2020-12-12"
+}
