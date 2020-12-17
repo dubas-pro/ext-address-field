@@ -57,6 +57,9 @@ If you want to add own translation, you can do so by yourself. Just copy a [fold
 ## FAQ
 1. **Can i change already created address fields to Dubas Address?** <br />
 Yes, you can. Just change field type to `dubasAddress`. <br />Please remember that we're using in Country field enum list with country codes as values. That's mean that if you have already existing records in this entity which have different values than [ISO 3166-1 alpha-2 format](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements), you should edit them first. For example if you had something like USA or United States, you should change that to `US`.
+
+**Remember about rebuilding your EspoCRM after that change.**
+
 2. **What with fields which are not available in Custom directory?**<br />
 You can also change that field to `DubasAddress`. Here you have an example for `billingAddress`:
 ```
@@ -66,6 +69,8 @@ You can also change that field to `DubasAddress`. Here you have an example for `
 },
 ```
 **Please remember that you should first adjust content of addressCountry field to [ISO 3166-1 alpha-2 format](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)**
+
+**Remember about rebuilding your EspoCRM after that change.**
 
 ## Support
 This theme is shared without any support. Theme is available as it is.
