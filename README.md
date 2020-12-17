@@ -38,6 +38,10 @@ This repo is for comments only, but we do not give any warranty for the theme or
 - zh_CN
 - zh_TW
 
+If you want to add own translation, you can do so by yourself. Just copy a folder en_US and just to your needs.
+https://github.com/dubas-pro/ext-address-field/tree/main/files/application/Espo/Modules/DubasAddressField/Resources/i18n/en_US
+You can also create a pull request to this repo. 
+
 
 ## Requirements
 1. EspoCRM in version higher than 6.0.0.
