@@ -73,5 +73,5 @@ You can also change that field to `DubasAddress`. Here you have an example for `
 **Remember about rebuilding your EspoCRM after that change.**
 
 ## Support
-This theme is shared without any support. Theme is available as it is.
+This extension is shared without any support. Extension is available as it is.
 If you want to order some service, all information about us you can find on our website [https://devcrm.it/](https://devcrm.it/).
